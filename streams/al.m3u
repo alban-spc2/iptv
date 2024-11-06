@@ -1,43 +1,132 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A2CNN.al",A2 CNN (720p)
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al",AlbKanale Music TV (720p)
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-id="AlpoTV.al",ALPO (720p) [Not 24/7]
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-id="CityTV.al",City TV (1080p) [Not 24/7]
-https://vs.sednastream.com:1936/citytv/citytv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.al",CNA (1080p)
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-id="FolkloritTV.al",Folklorit TV (1080p) [Not 24/7]
-https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanali7.al",Kanali 7 (576p)
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 tvg-id="MCNTV.al",MCN TV (1080p) [Not 24/7]
-http://141.95.145.70:8088/hls/mcn.m3u8
-#EXTINF:-1 tvg-id="ntv.al",Neser TV (1080p)
-https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
-#EXTINF:-1 tvg-id="News24.al",News 24 (392p) [Not 24/7]
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.al",News 24 Albania (392p)
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="OraNews.al",Ora News (720p)
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="PanoramaTV.al",Panorama TV (720p) [Not 24/7]
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ReportTV.al",Report TV (720p)
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SitiShqipTV.al",Siti Shqip TV (720p) [Not 24/7]
-https://vs.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
-#EXTINF:-1 tvg-id="TopChannel.al",Top News (720p)
-https://trueodin.serv00.net/?t=topnewsal
-#EXTINF:-1 tvg-id="TropojaTelevizion.al",Tropoja TV (1080p)
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7Albania.al",TV 7 Albania (540p) [Not 24/7]
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7Albania.al",TV 7 Albania (540p) [Not 24/7]
-https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-id="VizionPlus.al",Vizion Plus (1080p)
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-#EXTINF:-1 tvg-id="ZjarrTV.al",Zjarr TV (720p) [Not 24/7]
-https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Strong Info" tvg-logo="https://lo1.in/alb/dark.png" group-title="Strong8K",Strong Info
+http://baniott.onlinewebshop.net/Strong8K.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" The Wasp" tvg-logo="http://t365.in:900/images/cLsQbDGHGaR8R6pBZac8V9Ui130_big.jpg" group-title="Strong8K VOD", The Wasp
+http://gdfbqrd.luxevpn.xyz:80/movie/SokolRika1/D3N9N51C4D/401437769.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Silent Hour" tvg-logo="http://t365.in:900/images/j736cRzBtEPCm0nHnpRN1prqiqj_big.jpg" group-title="Strong8K VOD", The Silent Hour
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401474805.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Present" tvg-logo="http://t365.in:900/images/mRXPjCNFbXVXmaqHItMHDUPaxvK_big.jpg" group-title="Strong8K VOD", The Present
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401474804.mp4
+#EXTINF:-1 tvg-chno="2924" tvg-id="" tvg-name=" Zori (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC9lMjdcIJxnJlOwoWRTWurJRv3.jpg" group-title="Strong8K VOD",Zori
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/574994.mp4
+#EXTINF:-1 tvg-chno="539" tvg-id="" tvg-name="Ne Kuader te Dashurise" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAYOSgsUfEQ6T9nTBWJ7VXH0RHp.jpg" group-title="Strong8K VOD",Ne Kuader te Dashuris
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/812810.ts
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name=" Mapanukso (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1GQEVwPJRAKRLiSfQelF5p6C8A.jpg" group-title="Strong8K VOD", Mapanukso (2024)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/812787.ts
+#EXTINF:-1 tvg-chno="42" tvg-id="" tvg-name=" FOREVER 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neSf5N0m0OGL50DhkwjNAisNU7U.jpg" group-title="Strong8K VOD", FOREVER 2024
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/1116029.mp4
+#EXTINF:-1 tvg-chno="433" tvg-id="" tvg-name=" Policë për kokë (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kog5JsUBuuA7si0WkZIdDcoppC.jpg" group-title="Strong8K VOD", Policë për kokë (2023)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/614005.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Cita" tvg-logo="http://t365.in:900/images/yh3KwJ6IE9RLkIaEsY9obo5CtCM_big.jpg" group-title="Strong8K VOD", Cita
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401391985.mp4
+#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-name=" The Christmas Charade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jgFIqG7haKpxXnckzTw9pzlG4v.jpg" group-title="Strong8K VOD", The Christmas Charade (2024)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/1158966.mkv
+#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-name=" Sisid Marino (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hHCveRsNE1DsBroSjTgyDo81Co.jpg" group-title="Strong8K VOD", Sisid Marino (2024)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/943167.ts
+#EXTINF:-1 tvg-id="" tvg-name=" The Wild Robot" tvg-logo="http://t365.in:900/images/wTnV3PCVW5O92JMrFvvrRcV39RU_big.jpg" group-title="Strong8K VOD", The Wild Robot
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401465661.mp4
+#EXTINF:-1 tvg-chno="374" tvg-id="" tvg-name=" Holiday Road (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XfxvKm0gAgOFBOL8vguBCiLxiI.jpg" group-title="Strong8K VOD", Holiday Road (2023)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/770273.mp4
+#EXTINF:-1 tvg-chno="344" tvg-id="" tvg-name=" Dovbush (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkCUDlBiVIKGdycibGYBTexhgRN.jpg" group-title="Strong8K VOD", Dovbush (2023)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/684409.mp4
+#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-name=" Dune: Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dk3Wo6Q5azRoggtjDICwL2wCc04.jpg" group-title="Strong8K VOD", Dune: Part Two (2024)
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/770179.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Junebug" tvg-logo="http://t365.in:900/images/yDvimZHKqHTFQpQ7b1Xr801bHQi_big.jpg" group-title="Strong8K VOD", Junebug
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401355054.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 12th Fail" tvg-logo="http://a985.xyz:900/images/cDWW5l4NTWtQi9McwevrY3knsTd_big.jpg" group-title="Strong8K VOD", 12th Fail
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400973007.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" My Fault" tvg-logo="http://a985.xyz:900/images/w46Vw536HwNnEzOa7J24YH9DPRS_big.jpg" group-title="Strong8K VOD", My Fault
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400657673.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Deadpool & Wolverine" tvg-logo="http://t365.in:900/images/8cdWjvZQUExUUTzyp4t6EDMubfO_big.jpg" group-title="Strong8K VOD", Deadpool & Wolverine
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401338323.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" John Wick: Chapter 4" tvg-logo="http://a985.xyz:900/images/vZloFAK7NmvMGKE7VkF5UHaz0I_big.jpg" group-title="Strong8K VOD", John Wick: Chapter 4
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400638671.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Wanted Man" tvg-logo="http://a985.xyz:900/images/pmdgdb8biQLLzTjySZLPdK13KwM_big.jpg" group-title="Strong8K VOD", Wanted Man
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400984534.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Terrifier 3" tvg-logo="http://t365.in:900/images/63xYQj1BwRFielxsBDXvHIJyXVm_big.jpg" group-title="Strong8K VOD", Terrifier 3
+http://cf.shark-cdn.me/movie/238e5cbd67ea/mp1r5pb3cf/1144847.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" Don't Move" tvg-logo="http://t365.in:900/images/cRDJxdnRb7ikKd6fVJTrGeaL34v_big.jpg" group-title="Strong8K VOD", Don't Move
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401474800.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Canary Black" tvg-logo="http://t365.in:900/images/hhiR6uUbTYYvKoACkdAIQPS5c6f_big.jpg" group-title="Strong8K VOD", Canary Black
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401474799.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Venom: The Last Dance" tvg-logo="http://t365.in:900/images/k42Owka8v91trK1qMYwCQCNwJKr_big.jpg" group-title="Strong8K VOD", Venom: The Last Dance
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401472676.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Smile 2" tvg-logo="http://t365.in:900/images/aE85MnPIsSoSs3978Noo16BRsKN_big.jpg" group-title="Strong8K VOD", Smile 2
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401465654.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Substance" tvg-logo="http://t365.in:900/images/lqoMzCcZYEFK729d6qzt349fB4o_big.jpg" group-title="Strong8K VOD", The Substance
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401465660.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Bad Genius" tvg-logo="http://t365.in:900/images/h5hONXZ4hPgniv1DXMB1IZohhpO_big.jpg" group-title="Strong8K VOD", Bad Genius
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401465647.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Wolfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg" group-title="Strong8K VOD", Wolfs
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401437464.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Take Cover" tvg-logo="http://t365.in:900/images/xNLiMNyFzKTL9PVIEulG55Hei8j_big.jpg" group-title="Strong8K VOD", Take Cover
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401465656.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Dominique" tvg-logo="http://t365.in:900/images/29uKScAbQuKsMEdAn12a6BmvFn7_big.jpg" group-title="Strong8K VOD", Dominique
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401465650.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Killer's Game" tvg-logo="http://t365.in:900/images/4bKlTeOUr5AKrLky8mwWvlQqyVd_big.jpg" group-title="Strong8K VOD", The Killer's Game
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401437766.mp4    
+#EXTINF:-1 tvg-id="" tvg-name=" Escape" tvg-logo="http://t365.in:900/images/75YBLsA38KAJfL4D4plgcmquAE1_big.jpg" group-title="Strong8K VOD", Escape
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401393278.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Justice League: Crisis on Infinite Earths Part One" tvg-logo="http://a985.xyz:900/images/zR6C66EDklgTPLHRSmmMt5878MR_big.jpg" group-title="Strong8K VOD", Justice League: Crisis on Infinite Earths Part One
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400998963.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Ego " tvg-logo="https://lo1.in/VOD/Ego.2023.jpg" group-title="Strong8K VOD", Ego 
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401397047.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Instigators" tvg-logo="http://t365.in:900/images/pIz9csYn1yjrzQi0BuBZNJrTMi0_big.jpg" group-title="Strong8K VOD", The Instigators
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401355064.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" One More Shot" tvg-logo="http://a985.xyz:900/images/nQ1BQg4yMdlYSHvHZgwladzy7EF_big.jpg" group-title="Strong8K VOD", One More Shot
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400988396.mp4    
+#EXTINF:-1 tvg-id="" tvg-name=" The Hangman" tvg-logo="http://t365.in:900/images/fPQHphdpewjHXb0IsLdfSnM4fYU_big.jpg" group-title="Strong8K VOD", The Hangman
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401338339.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Rita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grIFQLXXwQmjvYYfXVXCgGTMUWw.jpg" group-title="Strong8K VOD", Rita
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401172926.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Red Flag" tvg-logo="http://t365.in:900/images/7bY64Q0qqH8apXsFVPvxjkVUYY4_big.jpg" group-title="Strong8K VOD", Red Flag
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401393044.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Humane" tvg-logo="http://a985.xyz:900/images/ecOvKaoM1hwQbp0uTnULGrSV32e_big.jpg" group-title="Strong8K VOD", Humane
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401186774.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Cash Out" tvg-logo="http://a985.xyz:900/images/v3youHDLigrtIis1NqTjlY8Sk38_big.jpg" group-title="Strong8K VOD", Cash Out
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401186769.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Cabrini" tvg-logo="http://a985.xyz:900/images/rBiHiN8W4BqMFrDozemzkof7GmF_big.jpg" group-title="Strong8K VOD", Cabrini
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401186768.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Kung Fu Panda 3" tvg-logo="http://a985.xyz:900/images/oajNi4Su39WAByHI6EONu8G8HYn_big.jpg" group-title=" KIDS", Kung Fu Panda 3
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401167947.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Kung Fu Panda 4" tvg-logo="http://a985.xyz:900/images/kDp1vUBnMpe8ak4rjgl3cLELqjU_big.jpg" group-title="Strong8K VOD", Kung Fu Panda 4
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401135391.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" No Way Up" tvg-logo="http://a985.xyz:900/images/rieMzC6JJoMVbsaUv6Rzj0fR7Px_big.jpg" group-title="Strong8K VOD", No Way Up
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401049063.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Palipat-lipat, Papalit-palit" tvg-logo="http://t365.in:900/images/zyp5MPZva1WZ3fhoC3inxKK4ZQ2_big.jpg" group-title="Strong8K VOD", Palipat-lipat, Papalit-palit
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401394831.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Simulant" tvg-logo="http://a985.xyz:900/images/kmDJhZIq1xnu5ZiMOlb0nHJH1qb_big.jpg" group-title="Strong8K VOD", Simulant
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400637900.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" 5 Herë Jo - 5 Times No" tvg-logo="http://a985.xyz:900/images/j4DduE6pHNP3a7Fzp46wLjMraF4_big.jpg" group-title="Strong8K VOD", 5 Herë Jo - 5 Times No
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401074978.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Imaginary" tvg-logo="http://a985.xyz:900/images/9u6HEtZJdZDjPGGJq6YEuhPnoan_big.jpg" group-title="Strong8K VOD", Imaginary
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401135389.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Damsel" tvg-logo="http://a985.xyz:900/images/sMp34cNKjIb18UBOCoAv4DpCxwY_big.jpg" group-title="Strong8K VOD", Damsel
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401078883.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Sixty Minutes" tvg-logo="http://a985.xyz:900/images/y9kaU0D34kpA9wldZ8GYo67tnbV_big.jpg" group-title="Strong8K VOD", Sixty Minutes
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400991607.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Dead Shot" tvg-logo="https://lo1.in/VOD/Dead.Shot.jpg" group-title="Strong8K VOD", Dead Shot
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400645520.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Fast X" tvg-logo="http://a985.xyz:900/images/fiVW06jE7z9YnO4trhaMEdclSiC_big.jpg" group-title="Strong8K VOD", Fast X
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400657672.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Hounds of War" tvg-logo="http://t365.in:900/images/lRBT73EWsiQPuqK3YS3BnBW0Zwi_big.jpg" group-title="Strong8K VOD", Hounds of War
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401436623.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Legjenda e Fundit" tvg-logo="http://t365.in:900/images/rBTgdHszigJ1wB3zlIFGkTIX1Ff_big.jpg" group-title="Strong8K VOD", Legjenda e Fundit
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401394828.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Jackpot!" tvg-logo="http://t365.in:900/images/wWWlclyWf4PLq9hOf8X5joVEJ6r_big.jpg" group-title="Strong8K VOD", Jackpot!
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401355053.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Hitman" tvg-logo="http://a985.xyz:900/images/qehXRfmOXJQn9vubPjQIf1H7s2U_big.jpg" group-title="Strong8K VOD", The Hitman
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400996504.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" The Mechanic" tvg-logo="http://a985.xyz:900/images/fDAEJr4WLZLJQmckA2JZNICt0u3_big.jpg" group-title="Strong8K VOD", The Mechanic
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401247466.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Hacker" tvg-logo="http://a985.xyz:900/images/sJKcpT5LRuCdGpWm29yH2bMWqT0_big.jpg" group-title="Strong8K VOD", Hacker
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/401247452.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Dosed" tvg-logo="http://a985.xyz:900/images/635yvnqGHsywa6Hrs6BI4MUPMUX_big.jpg" group-title="Strong8K VOD", Dosed
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400700974.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Teen Wolf: The Movie" tvg-logo="http://a985.xyz:900/images/wAkpPm3wcHRqZl8XjUI3Y2chYq2_big.jpg" group-title="Strong8K VOD", Teen Wolf: The Movie
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400526791.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Nowhere" tvg-logo="http://a985.xyz:900/images/rpzFxv78UvYG5yQba2soO5mMl4T_big.jpg" group-title="Strong8K VOD", Nowhere
+http://gdfbqrd.luxevpn.xyz:900/movie/SokolRika1/D3N9N51C4D/400818503.mp4    
+#EXTINF:-1 tvg-id="" tvg-name="ALB| Bookworm" tvg-logo="http://t365.in:900/images/25ji4MPbb93DGjD6wyB76ifcTFD_big.jpg" group-title="[ALB] FILMET",ALB| Bookworm
+http://regard64800.cdngold.me:80/movie/238e5cbd67ea/mp1r5pb3cf/1160766.mkv
